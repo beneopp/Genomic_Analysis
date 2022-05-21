@@ -1,0 +1,4 @@
+Blue - up and target
+Yellow - down and target
+Purple - up and not target
+Green - down and not target
