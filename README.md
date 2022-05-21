@@ -1,4 +1,4 @@
-# Genomic_Analysis
+# Genomic Analysis
 
 The following code was used to analyze microarray data from patients. All of these patients were pregnant at the time that the blood samples were taken. 
 They can be divided into the following categories: diagnosed with preeclampsia, not diagnosed with preeclampsia, high levels of vitamin D,\
