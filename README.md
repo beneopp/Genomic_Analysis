@@ -4,7 +4,7 @@ The following code was used for a study that analyzed the effects of vitamin D o
 
 # Outline of Code
 
-First it is important to note that patient data is not included because of patient privacy. Additionally, the genes used in the analysis come from the following sources:
+Before continuing, two things need to be mentioned. First,it is important to note that patient data is not included because of patient privacy. Second, the genes used in the analysis come from the following sources:
 
 - LCC stands for Largest Connected Components. A regulatory network was inferred from expression data and these genes were largest connected component of the network graph.
 - JCI stands for Journal of Clinical Investigation. These genes were identified to be differentially expressed in the Mirzakhani et al. 2016 paper.
