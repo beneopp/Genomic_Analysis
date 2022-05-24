@@ -4,15 +4,17 @@ The following code was used for a study that analyzed the effects of vitamin D o
 
 # Outline of Code
 
-Before continuing, two things need to be mentioned. First,it is important to note that patient data is not included because of patient privacy. Second, the genes used in the analysis come from the following sources:
+Before continuing, it is important to note that patient data is not included because of patient privacy. 
 
-- LCC stands for Largest Connected Components. A regulatory network was inferred from expression data and these genes were largest connected component of the network graph.
-- JCI stands for Journal of Clinical Investigation. These genes were identified to be differentially expressed in the Mirzakhani et al. 2016 paper.
+The genes used in the analysis come from the following sources:
+
+- LCC stands for Largest Connected Components. A regulatory network was inferred from expression data and these genes were in the largest connected component of the network graph.
+- JCI stands for Journal of Clinical Investigation. The Mirzakhani et al. 2016 paper identified that these genes are differentially expressed.
 
 The purpose of each R script are as follows:
 
-- Figure2.R - The predicted targets of differentially expressed miRNA genes. The miRNA which targeted differentially expressed mRNA genes are stored in a list.
-- PCA.R - a PCA plot was drawn which shows the genomic expression of different patients
+- Figure2.R - This code predicted the targets of differentially expressed miRNA. The miRNA which targeted differentially expressed mRNA are stored in a list.
+- PCA.R - a PCA plot is drawn which plots the genomic expression of different patients
 - SignificantGeneCorrelations.R - heatmaps of the LCC and JCI genes were drawn which are in the heatmaps folder
 - generateFigures.R - The predicted targets of differentially expressed miRNA genes. The miRNA which targeted differentially expressed mRNA genes were shown in the images/plot.png figure.
 - venn.R - a Venn Diagram showing the number of genes found in each group
