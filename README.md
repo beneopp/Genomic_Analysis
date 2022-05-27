@@ -8,7 +8,7 @@ Before continuing, it is important to note that patient data is not included bec
 
 The genes used in the analysis come from the following sources:
 
-- LCC stands for Largest Connected Components. A regulatory network was inferred from expression data and these genes were in the largest connected component of the network graph.
+- LCC stands for Largest Connected Components. A gene regulatory network was inferred from expression data. Genes that were in the largest connected component of the network graph.
 - JCI stands for Journal of Clinical Investigation. The Mirzakhani et al. 2016 paper identified that these genes are differentially expressed.
 
 The purpose of each R script are as follows:
