@@ -1,6 +1,6 @@
 # Introduction to Study
 
-The following code was used for a study that analyzed the effects of vitamin D on preeclampsia for pregnant women (Mirzakhani et al. 2016). Study participants were divided into two groups: one group was given a daily dose 400 IU of vitamin D and the other group was given a daily dose of 4,400 IU of vitamin D. Blood samples of patients were collected and expression of mRNA and miRNA genes were investigated. Both groups were further divided by Whether the women were diagonosed with preeclampsia. 
+The following code was used for a study that analyzed the effects of vitamin D on preeclampsia for pregnant women (Mirzakhani et al. 2016). Study participants were divided into two groups: one group was given a daily dose 400 IU of vitamin D and the other group was given a daily dose of 4,400 IU of vitamin D. Blood samples of patients were collected and expression of mRNA and miRNA genes were investigated. Both groups were further divided by whether the women were diagonosed with preeclampsia. 
 
 # Outline of Code
 
