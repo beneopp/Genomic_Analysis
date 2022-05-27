@@ -11,7 +11,7 @@ The genes used in the analysis come from the following sources:
 - LCC stands for Largest Connected Components. A gene regulatory network was inferred from expression data. LCC genes refers to genes in the largest connected component of the network graph.
 - JCI stands for Journal of Clinical Investigation. The Mirzakhani et al. 2016 paper identified that these genes are differentially expressed.
 
-The purpose of each R script are as follows:
+The purpose of each R script is as follows:
 
 - Figure2.R - This code predicted the targets of differentially expressed miRNA. The miRNA which targeted differentially expressed mRNA are stored in a list.
 - PCA.R - a PCA plot is drawn which plots the genomic expression of different patients
@@ -21,6 +21,4 @@ The purpose of each R script are as follows:
 
 Citation
 
-Mirzakhani, H., Litonjua, A. A., McElrath, T. F., O’Connor, G., Lee-Parritz, A., Iverson, R., Macones, G., Strunk, R. C., Bacharier, L. B., Zeiger, R.,       
-  Hollis, B. W., Handy, D. E., Sharma, A., Laranjo, N., Carey, V., Qiu, W., Santolini, M., Liu, S., Chhabra, D., … Weiss, S. T. (2016). Early pregnancy 
-  vitamin D status and risk of preeclampsia. Journal of Clinical Investigation, 126(12), 4702–4715. https://doi.org/10.1172/jci89031 
+Mirzakhani, H., Litonjua, A. A., McElrath, T. F., O’Connor, G., Lee-Parritz, A., Iverson, R., Macones, G., Strunk, R. C., Bacharier, L. B., Zeiger, R.,       Hollis, B. W., Handy, D. E., Sharma, A., Laranjo, N., Carey, V., Qiu, W., Santolini, M., Liu, S., Chhabra, D., … Weiss, S. T. (2016). Early pregnancy vitamin D status and risk of preeclampsia. Journal of Clinical Investigation, 126(12), 4702–4715. https://doi.org/10.1172/jci89031 
