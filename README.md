@@ -13,7 +13,7 @@ The genes used in the analysis come from the following sources:
 
 The purpose of each R script is as follows:
 
-- Figure2.R - This code predicted the targets of differentially expressed miRNA. The miRNA which targeted differentially expressed mRNA are stored in a list.
+- Figure2.R - This code predicts the targets of differentially expressed miRNA. The miRNA which targeted differentially expressed mRNA are stored in a list.
 - PCA.R - a PCA plot is drawn which plots the genomic expression of different patients
 - SignificantGeneCorrelations.R - heatmaps of the LCC and JCI genes were drawn which are in the heatmaps folder
 - generateFigures.R - The predicted targets of differentially expressed miRNA genes. The miRNA which targeted differentially expressed mRNA genes were shown in the images/plot.png figure.
